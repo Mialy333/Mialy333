@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mialy333
 - 👀 I’m interested in Piano, Arts, Swimming, Reading, Human Psychology and Travelling
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Django, Laravel & Go
 - 💞️ I’m looking to collaborate on building websites and softwares
 - 📫 How to reach me : by mail : mialy.ratsimbazafy@gmail.com 
 - 😄 Pronouns: she/her
