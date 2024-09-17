@@ -19,10 +19,10 @@ Welcome to my non-linear career path becoming a professional Fullstack Web Devel
 ♦ 𝗪𝗵𝗶𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 𝗱𝗼 𝗜 𝗹𝗼𝘃𝗲 𝘁𝗼 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵?
 
 ⛁ Backend: 
-Javascript | Django | Laravel | Go | PostgreSQL
+Django | PHP | Laravel | Go | PostgreSQL | SQLite 
 
 🎨 Frontend:
-React.js | Figma | Tailwind CSS | Framer Motion
+Javascript | React.js | Figma | Tailwind CSS | Framer Motion
 
 ## 🔄 From Finance to Web development
 
