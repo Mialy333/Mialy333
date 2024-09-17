@@ -43,6 +43,7 @@ When I started to follow tutos on Youtube like « how to make you own Website 
 ♦ 𝗛𝗼𝘄 𝗱𝗶𝗱 𝗜 𝗳𝗶𝗴𝘂𝗿𝗲 𝗶𝘁 𝗼𝘂𝘁?
 
 1️⃣ Because I’d rather spending time getting frustrated until I found the solution in a time-unlimited period and that was ok.
+
 2️⃣ Because I loved the process on how to be accurate on questions I asked to find the right answer and make sure I get exactly the result I want.
 
 Those 2 signs led my decision to change. 
