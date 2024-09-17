@@ -14,6 +14,8 @@ Welcome to my non-linear career path becoming a professional Fullstack Web Devel
 
 ⛁ Backend-oriented | 🎯Product-oriented
 
+## 🛠 Skills
+
 ♦ 𝗪𝗵𝗶𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 𝗱𝗼 𝗜 𝗹𝗼𝘃𝗲 𝘁𝗼 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵?
 
 ⛁ Backend: 
