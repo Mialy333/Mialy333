@@ -24,7 +24,7 @@ Javascript | Django | Laravel | Go | PostgreSQL
 🎨 Frontend:
 React.js | Figma | Tailwind CSS | Framer Motion
 
-## From Finance to Web development
+## 🔄 From Finance to Web development
 
 ♦ 𝗠𝘆 𝗽𝗿𝗶𝗼𝗿 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱: 
 📈 Financial Markets client-facing role positions in an International Environment
