@@ -1,4 +1,7 @@
+▶ 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔 𝟭𝟮-𝗠𝗢𝗡𝗧𝗛𝗦 𝗔𝗣𝗣𝗥𝗘𝗡𝗧𝗜𝗖𝗘𝗦𝗛𝗜𝗣 𝗙𝗥𝗢𝗠 𝗢𝗖𝗧𝗢𝗕𝗘𝗥 𝟮𝟬𝟮𝟰 ◀
+
 ## 🚀 About Me
+Welcome to my non-linear career path becoming a professional Fullstack Web Developper :)
 
 - 👋 Hi, I’m @Mialy333
 - 👀 I’m interested in Piano, Arts, Swimming, Reading, Human Psychology and Travelling
@@ -7,14 +10,11 @@
 - 📫 How to reach me : by mail : mialy.ratsimbazafy@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: At 7 yo, I pretended to all of my classroom that my father was the actor Denzel WASHINGTON :) 
-
-▶ 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔 𝟭𝟮-𝗠𝗢𝗡𝗧𝗛𝗦 𝗔𝗣𝗣𝗥𝗘𝗡𝗧𝗜𝗖𝗘𝗦𝗛𝗜𝗣 𝗙𝗥𝗢𝗠 𝗢𝗖𝗧𝗢𝗕𝗘𝗥 𝟮𝟬𝟮𝟰 ◀
-
-Welcome to my non-linear career path becoming a professional Fullstack Web Developper :)
-
-⛁ Backend-oriented | 🎯Product-oriented
+- 🌍 Countries I have worked in: France, Luxembourg, Japan
+- I love Coffee ☕, Composing 🎹, Reading 📚and Wine🍷
 
 ## 🛠 Skills
+⛁ Backend-oriented | 🎯Product-oriented
 
 ♦ 𝗪𝗵𝗶𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 𝗱𝗼 𝗜 𝗹𝗼𝘃𝗲 𝘁𝗼 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵?
 
@@ -29,10 +29,6 @@ React.js | Figma | Tailwind CSS | Framer Motion
 ♦ 𝗠𝘆 𝗽𝗿𝗶𝗼𝗿 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱: 
 📈 Financial Markets client-facing role positions in an International Environment
 ✍️ Entrepreneurial & Digital Content Creation Experiences in between
-
-🌍 Countries I have worked in: France, Luxembourg, Japan
-
-I love Coffee ☕, Composing 🎹, Reading 📚and Wine🍷
 
 ♦ 𝗪𝗵𝗮𝘁 𝗯𝗿𝗼𝘂𝗴𝗵𝘁 𝗺𝗲 𝘁𝗼 𝗲𝗺𝗯𝗿𝗮𝗰𝗲 𝘁𝗵𝗲 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗰𝗮𝗿𝗲𝗲𝗿 𝗽𝗮𝘁𝗵 𝗻𝗼𝘄?
 
