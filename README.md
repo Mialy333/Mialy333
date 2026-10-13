@@ -27,8 +27,7 @@ Before code, I spent ten years in institutional asset management (Candriam, Nort
 | 🎫 [**support-chatbot-bedrock-agentcore**](https://github.com/Mialy333/support-chatbot-bedrock-agentcore) | A support chatbot that routes with prompts only, evaluated with an LLM judge. The judge scored it 0.92, then I audited the database and found fake ticket IDs the judge missed. | Lesson: test an agent's side effects, not just its words |
 | 🧠 [**agentcore-customer-support-agent**](https://github.com/Mialy333/agentcore-customer-support-agent) | One agent, six capabilities: MCP Gateway → Lambda tools, a knowledge base, cross-session memory, a code interpreter and a browser tool. | 6 scenarios tested on the deployed runtime |
 
-  <img src="https://raw.githubusercontent.com/Mialy333/novamart-multi-agent-support/main/project/starter/evidence/standout/novamart-demo.gif" alt="NovaMart multi-agent support demo" height="200">
-  <img src="https://raw.githubusercontent.com/Mialy333/one-step/main/assets/demo.gif" alt="One step: a messy to-do list becomes one task to do now" height="200">
+  <p align="center"><img src="https://raw.githubusercontent.com/Mialy333/novamart-multi-agent-support/main/project/starter/evidence/standout/novamart-demo.gif" alt="NovaMart multi-agent support demo" height="200">&nbsp;<img src="https://raw.githubusercontent.com/Mialy333/one-step/main/assets/demo.gif" alt="One step: a messy to-do list becomes one task to do now" height="200"></p>
 
 one-step is mine from the first line. The others started from a course starter (AWS × Udacity Agent Engineer Nanodegree, Dev3Pack AI Engineering Bootcamp). Each README says what was provided and what I wrote.
 
