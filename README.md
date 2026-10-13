@@ -10,7 +10,7 @@ I build AI agents that **check their work before they act**: they cite their sou
 
 Before code, I spent ten years in institutional asset management (Candriam, Northern Trust, Crédit Agricole CIB), explaining complex investment strategies to clients. I bring the same reflex to agents: every claim needs a source, and every action needs a control.
 
-📍 Paris · 🇬🇧 🇫🇷 · Has worked in France, Luxembourg and Japan · **Looking for an AI engineering apprenticeship (alternance) starting 2026–2027**
+📍 Paris · 🇬🇧 🇫🇷 · Has worked in France, Luxembourg and Japan · **Open to junior AI engineer roles and AI engineering apprenticeships (alternance), in Paris or abroad**
 
 **Stack:** Python · TypeScript · React · WebLLM/WebGPU · Amazon Bedrock AgentCore · Strands Agents · MCP · RAG · Ollama · Solana · pytest · GitHub Actions
 
