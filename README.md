@@ -1,60 +1,59 @@
-▶ 𝗟𝗢𝗢𝗞𝗜𝗡𝗚 𝗙𝗢𝗥 𝗔 𝟭𝟮-𝗠𝗢𝗡𝗧𝗛𝗦 𝗔𝗣𝗣𝗥𝗘𝗡𝗧𝗜𝗖𝗘𝗦𝗛𝗜𝗣 𝗙𝗥𝗢𝗠 𝗢𝗖𝗧𝗢𝗕𝗘𝗥 𝟮𝟬𝟮𝟰 ◀
+<!-- Profile README for github.com/Mialy333 — goes in a public repo named exactly "Mialy333" -->
 
-## 🚀 About Me
-Welcome to my non-linear career path becoming a professional Fullstack Web Developper :)
+<a href="https://my-building-library.vercel.app/en/">
+  <img src="https://raw.githubusercontent.com/Mialy333/my-building-library/main/public/og-en.png" alt="My Building Library — an AI engineering library built in public" width="100%">
+</a>
 
-- 👋 Hi, I’m @Mialy333
-- 👀 I’m interested in Piano, Arts, Swimming, Reading, Human Psychology and Travelling
-- 🌱 I’m currently learning Javascript, Django, Laravel & Go
-- 💞️ I’m looking to collaborate on building websites and softwares
-- 📫 How to reach me : by mail : mialy.ratsimbazafy@gmail.com 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: At 7 yo, I pretended to all of my classroom that my father was the actor Denzel WASHINGTON :) 
-- 🌍 Countries I have worked in: France, Luxembourg, Japan
-- I love Coffee ☕, Composing 🎹, Reading 📚and Wine🍷
+## Hi, I'm Mialy 👋
 
-## 🛠 Skills
-⛁ Backend-oriented | 🎯Product-oriented
+I build AI agents that **check their work before they act**: they cite their sources, verify a transaction before signing it, and refuse when they can't be sure.
 
-♦ 𝗪𝗵𝗶𝗰𝗵 𝘀𝘁𝗮𝗰𝗸𝘀 𝗱𝗼 𝗜 𝗹𝗼𝘃𝗲 𝘁𝗼 𝘄𝗼𝗿𝗸 𝘄𝗶𝘁𝗵?
+Before code, I spent ten years in institutional asset management (Candriam, Northern Trust, Crédit Agricole CIB), explaining complex investment strategies to clients. I bring the same reflex to agents: every claim needs a source, and every action needs a control.
 
-⛁ Backend: 
-Django | PHP | Laravel | Go | PostgreSQL | SQLite 
+📍 Paris · 🇬🇧 🇫🇷 · Has worked in France, Luxembourg and Japan · **Looking for an AI engineering apprenticeship (alternance) starting 2026–2027**
 
-🎨 Frontend:
-Javascript | React.js | Figma | Tailwind CSS | Framer Motion
+**Stack:** Python · TypeScript · React · WebLLM/WebGPU · Amazon Bedrock AgentCore · Strands Agents · MCP · RAG · Ollama · Solana · pytest · GitHub Actions
 
-## 🔄 From Finance to Web development
+---
 
-♦ 𝗠𝘆 𝗽𝗿𝗶𝗼𝗿 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱: 
-📈 Financial Markets client-facing role positions in an International Environment
-✍️ Entrepreneurial & Digital Content Creation Experiences in between
+### What I've built
 
-♦ 𝗪𝗵𝗮𝘁 𝗯𝗿𝗼𝘂𝗴𝗵𝘁 𝗺𝗲 𝘁𝗼 𝗲𝗺𝗯𝗿𝗮𝗰𝗲 𝘁𝗵𝗲 𝗙𝘂𝗹𝗹𝘀𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗰𝗮𝗿𝗲𝗲𝗿 𝗽𝗮𝘁𝗵 𝗻𝗼𝘄?
+| Project | What it does | Proof |
+|---|---|---|
+| 🛒 [**my-gecko-buyer**](https://github.com/Mialy333/my-gecko-buyer) | A buyer agent that pays on Solana, and refuses to sign any transaction it hasn't verified field by field. Ships an MCP tool (`check_purchase`) that other agents can call before signing. | 2 real purchases on devnet · every bad case refused on the right field · 98 tests in CI |
+| 🌱 [**one-step**](https://github.com/Mialy333/one-step) | Turns a messy to-do list into one next step. Gemma 2 2B runs entirely in the browser (WebLLM + WebGPU): no backend, nothing leaves your device. Built in one evening for my sister, who used it that night. | [Live demo](https://one-step-jypm.onrender.com) · Hacktoberfest 2026 DEV Challenge · [the story on dev.to](https://dev.to/mialy333/when-everything-feels-urgent-i-built-my-sister-a-tool-that-gives-her-just-one-next-step-3hg7) |
+| 🧭 [**novamart-multi-agent-support**](https://github.com/Mialy333/novamart-multi-agent-support) | Five specialist agents (orchestrator, inventory, refunds, policy, replies) on Amazon Bedrock AgentCore, with guardrails, X-Ray tracing and a CloudWatch dashboard. | 120/120 tests · 10/10 adversarial requests handled · [write-up on dev.to](https://dev.to/mialy333/from-finance-to-ai-engineering-6-lessons-i-learned-building-a-multi-agent-support-system-on-amazon-2fm1) |
+| 📚 [**grounded-research-agent**](https://github.com/Mialy333/grounded-research-agent) | A local RAG agent that answers only from its documents, cites the paragraph, and refuses otherwise. The model picks the paragraph; the code copies it word for word, so it can't paraphrase a citation wrong. | 15/15 on the course grader, 6/6 safety-critical · runs on a 14B model, no API key |
+| 🎫 [**support-chatbot-bedrock-agentcore**](https://github.com/Mialy333/support-chatbot-bedrock-agentcore) | A support chatbot that routes with prompts only, evaluated with an LLM judge. The judge scored it 0.92, then I audited the database and found fake ticket IDs the judge missed. | Lesson: test an agent's side effects, not just its words |
+| 🧠 [**agentcore-customer-support-agent**](https://github.com/Mialy333/agentcore-customer-support-agent) | One agent, six capabilities: MCP Gateway → Lambda tools, a knowledge base, cross-session memory, a code interpreter and a browser tool. | 6 scenarios tested on the deployed runtime |
 
-After an economic redundancy in 2023, I thought to get back to my prior business as Online Communication Strategist for Business Women and reach the next step.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mialy333/novamart-multi-agent-support/main/project/starter/evidence/standout/novamart-demo.gif" alt="NovaMart multi-agent support demo" width="49%">
+  <img src="https://raw.githubusercontent.com/Mialy333/one-step/main/assets/demo.gif" alt="One step: a messy to-do list becomes one task to do now" width="49%">
+</p>
 
-The idea was clear: building a simple website to provide my services, showing testimonials and adding value for free by writing blog’s posts.
+one-step is mine from the first line. The others started from a course starter (AWS × Udacity Agent Engineer Nanodegree, Dev3Pack AI Engineering Bootcamp). Each README says what was provided and what I wrote.
 
-𝘉𝘶𝘵 𝘩𝘦𝘳𝘦’𝘴 𝘸𝘩𝘢𝘵 𝘩𝘢𝘱𝘱𝘦𝘯𝘦𝘥 …
+### Why I switched
 
-When I started to follow tutos on Youtube like « how to make you own Website ?», I felt more interested in coding than getting back to my own business! 
+I started coding to build a simple website for my own business. I never went back to the business. Two signs told me why: I enjoyed being stuck on a problem for as long as it took, and I loved asking precise questions until the result was exactly right. Those turn out to be most of the job, and they matter even more with AI agents.
 
-♦ 𝗛𝗼𝘄 𝗱𝗶𝗱 𝗜 𝗳𝗶𝗴𝘂𝗿𝗲 𝗶𝘁 𝗼𝘂𝘁?
+### Learning in public
 
-1️⃣ Because I’d rather spending time getting frustrated until I found the solution in a time-unlimited period and that was ok.
+📖 **[My Building Library](https://my-building-library.vercel.app/en/)**: everything I learn, written up as books and chapters, in English and French. 31 chapters, a 54-term glossary, built with Astro and TypeScript ([source](https://github.com/Mialy333/my-building-library)).
 
-2️⃣ Because I loved the process on how to be accurate on questions I asked to find the right answer and make sure I get exactly the result I want.
+✍️ **Writing:** [dev.to/mialy333](https://dev.to/mialy333), one technical article a month.
 
-Those 2 signs led my decision to change. 
+🔭 **Right now:** Full Stack Open and DevOps with Docker/Kubernetes (University of Helsinki), and a multi-agent project of my own built from the first commit to production, with no starter code.
 
-♦ 𝗛𝗼𝘄 𝗱𝗶𝗱 𝗜 𝗴𝗲𝘁 𝘁𝗵𝗲𝗿𝗲?
+### Let's talk
 
-First, I started to learn on my own following OpenClassrooms courses.
-Then, I learned the best practice with expert Web Developers face-to-face from Monday to Friday at Ada Tech School during 𝟵 𝗺𝗼𝗻𝘁𝗵𝘀.
+I'm happy to get feedback on any of these repos. Open an issue, or reach me on [LinkedIn](https://www.linkedin.com/in/mialyratsimbazafy75) or [X (@ellebuild)](https://x.com/ellebuild).
 
-👉 If you're curious to know more about personal projects I've built, feel free to visit my portfolio.
+<details>
+<summary>⚡ Fun fact</summary>
+<br>
+At 7, I convinced my whole class that my father was Denzel Washington. Off-screen, I play piano, swim, and read too much human psychology.
+</details>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logoColor=white)](https://mialy-ratsimbazafy-portfolio.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mialyratsimbazafy75)
+If one of these projects helped you, a ⭐ helps me more than you'd think.
