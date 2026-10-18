@@ -10,7 +10,7 @@ I build AI agents that **check their work before they act**: they cite their sou
 
 Before code, I spent ten years in institutional asset management (Candriam, Northern Trust, Crédit Agricole CIB), explaining complex investment strategies to clients. I bring the same reflex to agents: every claim needs a source, and every action needs a control.
 
-📍 Paris · 🇬🇧 🇫🇷 · Has worked in France, Luxembourg and Japan · **Open to junior AI engineer roles and AI engineering apprenticeships (alternance), in Paris or abroad**
+📍 Paris · 🇬🇧 🇫🇷 · Has worked in France, Luxembourg and Japan · **Open to junior AI engineer roles and AI engineering apprenticeships (alternance) in Paris: I'm here to learn from a team that ships**
 
 **Stack:** Python · TypeScript · React · WebLLM/WebGPU · Amazon Bedrock AgentCore · Strands Agents · MCP · RAG · Ollama · Solana · pytest · GitHub Actions
 
@@ -20,10 +20,10 @@ Before code, I spent ten years in institutional asset management (Candriam, Nort
 
 | Project | What it does | Proof |
 |---|---|---|
-| 🛒 [**my-gecko-buyer**](https://github.com/Mialy333/my-gecko-buyer) | A buyer agent that pays on Solana, and refuses to sign any transaction it hasn't verified field by field. Ships an MCP tool (`check_purchase`) that other agents can call before signing. | 2 real purchases on devnet · every bad case refused on the right field · 98 tests in CI |
-| 🌱 [**one-step**](https://github.com/Mialy333/one-step) | Turns a messy to-do list into one next step. Gemma 2 2B runs entirely in the browser (WebLLM + WebGPU): no backend, nothing leaves your device. Built in one evening for my sister, who used it that night. | [Live demo](https://one-step-jypm.onrender.com) · Hacktoberfest 2026 DEV Challenge · [the story on dev.to](https://dev.to/mialy333/when-everything-feels-urgent-i-built-my-sister-a-tool-that-gives-her-just-one-next-step-3hg7) |
 | 🧭 [**novamart-multi-agent-support**](https://github.com/Mialy333/novamart-multi-agent-support) | Five specialist agents (orchestrator, inventory, refunds, policy, replies) on Amazon Bedrock AgentCore, with guardrails, X-Ray tracing and a CloudWatch dashboard. | 120/120 tests · 10/10 adversarial requests handled · [write-up on dev.to](https://dev.to/mialy333/from-finance-to-ai-engineering-6-lessons-i-learned-building-a-multi-agent-support-system-on-amazon-2fm1) |
 | 📚 [**grounded-research-agent**](https://github.com/Mialy333/grounded-research-agent) | A local RAG agent that answers only from its documents, cites the paragraph, and refuses otherwise. The model picks the paragraph; the code copies it word for word, so it can't paraphrase a citation wrong. | 15/15 on the course grader, 6/6 safety-critical · runs on a 14B model, no API key |
+| 🛒 [**my-gecko-buyer**](https://github.com/Mialy333/my-gecko-buyer) | A buyer agent that pays on Solana, and refuses to sign any transaction it hasn't verified field by field. Ships an MCP tool (`check_purchase`) that other agents can call before signing. | 2 real purchases on devnet · every bad case refused on the right field · 98 tests in CI |
+| 🌱 [**one-step**](https://github.com/Mialy333/one-step) | Turns a messy to-do list into one next step. Gemma 2 2B runs entirely in the browser (WebLLM + WebGPU): no backend, nothing leaves your device. Built in one evening for my sister, who used it that night. | [Live demo](https://one-step-jypm.onrender.com) · Hacktoberfest 2026 DEV Challenge · [the story on dev.to](https://dev.to/mialy333/when-everything-feels-urgent-i-built-my-sister-a-tool-that-gives-her-just-one-next-step-3hg7) |
 | 🎫 [**support-chatbot-bedrock-agentcore**](https://github.com/Mialy333/support-chatbot-bedrock-agentcore) | A support chatbot that routes with prompts only, evaluated with an LLM judge. The judge scored it 0.92, then I audited the database and found fake ticket IDs the judge missed. | Lesson: test an agent's side effects, not just its words |
 | 🧠 [**agentcore-customer-support-agent**](https://github.com/Mialy333/agentcore-customer-support-agent) | One agent, six capabilities: MCP Gateway → Lambda tools, a knowledge base, cross-session memory, a code interpreter and a browser tool. | 6 scenarios tested on the deployed runtime |
 
